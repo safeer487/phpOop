@@ -1,0 +1,15 @@
+---> Crea la clase abstracta de "abstract_usuario" para un clon de whatsapp
+
+-Variables
+
+apodo y num teléfono
+
+-Métodos
+
+enviar mensaje a usuario (no puedes a ti), leer mensajes que ha tenido con un usuario, crear grupo (y añadir usuarios a ese grupo y quitarlos)
+
+---> Crea la clase "usuario" extendiendo de "abstract_usuario"
+
+---> Crea 3 usuarios. Que hablen entre ellos y se hagan un grupo.
+
+---> Crea los roles administrador, NSA y cliente (interfaces). El administrador podrá leer conversaciones de un usuario y podrá destruir grupos. NSA podrá obtener la posición GPS de un usuario. El cliente podrá cambiar su avatar y ponerse estados.

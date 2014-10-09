@@ -1,0 +1,18 @@
+---> Tras hacer la interfaz de una calculadora, decides hacer un objeto (calculadora) para agilizar los calculos. Debes poder crearlo pasandole 3 parametros en el constructor:
+
+1) Primer número
+2) Operación
+3) Segundo número
+
+Ejemplo:
+
+new Calculadora(4, '+', 6); --> 10
+
+new Calculadora(4, 'x', 2); --> 8
+
+---> Añade un método para:
+
+- Imprimir por consola el resultado.
+- Imprimir toda la operación: "4 + 6 = 10"
+
+---> Pro: Imprimime si es par o impar.

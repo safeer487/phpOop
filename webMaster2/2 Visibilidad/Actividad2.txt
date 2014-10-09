@@ -1,0 +1,13 @@
+El restaurante ha tenido bastante exito. Tanto que se ha decidido tener clientes VIPS. Necesitarás un nuevo objeto.
+
+Variables:
+- Nombre
+- Apellido
+- Teléfono
+- Dirección
+- Número de tarjeta de crédito
+- Fecha de nacimiento.
+
+Métodos:
+- Gets y sets para todos. ¡¡ATENCION!! Tienes que verificar que la fecha de nacimiento es correcta y el número de teléfono tiene 9 cifras y es numérico.
+- Nuevo gets: edad y si es mayor de edad.

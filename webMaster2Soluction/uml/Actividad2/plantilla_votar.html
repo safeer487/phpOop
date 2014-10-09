@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<style>
+	div.radio{
+		width:400px;
+		margin:0 auto;
+	}
+	</style>
+</head>
+<body>
+	<div id="votar">
+		<div class="radio">
+			<form action="controlador.php?vista=votar" method="post">
+			<h1>Elije su partido</h1>
+			{radioButtons}
+			<input type="submit" value="votar">
+			</form>
+
+		</div>
+</body>
+</html>

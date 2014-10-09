@@ -1,0 +1,11 @@
+----> El jefe te ha pillado por banda y te ha pedido que le digitalices el sistema de entradas de empleados. El sistema tiene un teclado donde cada empleado tiene que introducir su nombre para identificarse. Es la forma de fichar en la empresa. 
+
+Características:
+- Al hacerlo te devuelve un mensaje saludandote por tu nombre.
+- Si te equivoca mostrará un mensaje de error.
+- Debe tener un contador de horas (empieza por 0 cuando se crea el objetos)
+- Un método para cambiar las horas.
+
+----> Pro: A la mujer del jefe no le gusta el chisme. ¿Y si un empleado pone el nombre de su amigo? Modifica el sistema anterior para que tengan que identificarse cada uno con su nombre y contraseña.
+
+----> Pro 2: Debe guardar la hora que se creó. Cuando se vuelve a fichar debe devolver las horas que has trabajado y resetear el contador.

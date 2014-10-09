@@ -1,0 +1,12 @@
+/**
+ * 
+
+-Una interfaz no puede contener atributos ni métodos implementados, mientras que una clase abstracta sí.
+
+-Una clase sólo puede heredas una clase abstracta, mientras que en una misma clase se pueden implementar varias interfaces.
+
+-Las clases abstractas pueden declarar los métodos con diferente visibilidad, mientras que en los interfaces todos los métodos deben ser públicos (también static).
+
+-Los métodos que no implementamos en una clase abstracta, deben ser abstract, en un interface, todos los métodos son abstract, y ninguno debe ser implementado.
+
+ */

@@ -1,0 +1,7 @@
+Declara un objeto de "Boxeador".
+
+Variables: nombre real, nombre artístico, peso y nacionalidad.
+
+A continuación, realizarás 2 boxeadores inventados por ti.
+
+Acuérdate de imprimir por pantalla sus características de forma ORDENADA. 

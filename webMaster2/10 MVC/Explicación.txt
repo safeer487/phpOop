@@ -1,0 +1,21 @@
+ MVC (Model/View/Controller o Modelo/Vista/Controlador).
+
+La idea del patrón MVC es separar en tres capas los datos (model), la interfaz de usuario (view) y la lógica de negocio (controller). Esto permite una mayor reutilización de componentes, facilita la modificaciones del aspecto del programa/web sin tener que tocar el funcionamiento y simplifica el mantenimiento. Funciona de forma “triangular”, es decir, cada capa envía información a una y la reciba de la otra.
+
+El modelo sería la representación de la información y se encargaría de gestionar el acceso, adición y modificación de los mismos (operaciones CRUD). A nivel de interacción con los otros componentes enviaría a la vista los datos que tienen que ser mostrados y recibiría desde el controlador las peticiones de acceso y manipulación.
+
+La vista sería, como su nombre indica, lo que se ve en pantalla. Además de mostrar los datos al usuario le permite interactuar con ellos. La vista recibe del modelo los datos a mostrar y permite al usuario comunicarse con el controlador a través de sus objetos.
+
+Finalmente el controlador, trabajaría como puente entre la vista y el modelo, recibiendo las peticiones del usuario a través de la primera, realizando las labores de transformación necesarias y realizando finalmente las peticiones al modelo.
+
+Aunque el MVC nació originalmente (allá por los años 70) para aplicaciones de escritorio, el desarrollo de la web dinámica hizo que fuera adoptado como patrón para diseñar la arquitectura de muchos sitios web. Existen múltiples frameworks para diversos lenguajes que permiten implementar el MVC a la arquitectura web. En el caso de PHP hay gran variedad, todos software libre:
+
+Zend Framework
+
+Symfony
+
+Codeigniter
+
+CakePHP
+
+Yii

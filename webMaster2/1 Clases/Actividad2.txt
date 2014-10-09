@@ -1,0 +1,11 @@
+Estas a cargo de una web la cual vende camisetas de mickey mouse (todo pirata). Decides hacer un objeto de "camiseta" para gestionar los productos de forma más eficiente. Las características son:
+
+- Código de camiseta (un número de 5 cifras)
+- Talla
+- Color
+- Dibujo
+- Género (si es para mujer u hombre)
+- Precio
+- Disponible
+
+Decides añadirle métodos para cambiar las variables que tu creas necesarias.

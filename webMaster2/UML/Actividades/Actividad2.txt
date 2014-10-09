@@ -1,0 +1,1 @@
+Realiza todo el UML y la implementación de una máquina para votar.

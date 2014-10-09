@@ -1,0 +1,30 @@
+Declara un objeto de Vehículo.
+
+Variables:
+-Color
+-Marca
+-nº ruedas
+-nº pasajeros
+
+Método:
+-Ver todo: Color, marca, nº ruedas y nº pasajeros.
+
+Declara Coche, que hereda de Vehículo.
+
+Variables:
+-Hereda todo.
+-radio (boolean)
+-nº puertas
+
+Métodos:
+-Modificar todo
+-Hereda
+
+Declara Moto
+
+Variables:
+-Cilindrada
+
+Métodos:
+-Modificar todo
+-Hereda

@@ -1,0 +1,7 @@
+¿Lo has entendido? Demuéstramelo.
+
+Sin ayuda realiza los métodos y variables que creas necesario para:
+
+Volumen -----> Libro
+ |
+ |-----------> Revista

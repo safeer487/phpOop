@@ -1,0 +1,11 @@
+---> Crea una clase Animal, la cual va a estar vacía. Además crea las interfaces:
+
+-Mamífero: tiempo de gestación
+
+-Reptil: color de piel.
+
+-Pez: ¿Es de agua dulce?
+
+-Ave(cualquier animal que pueda volar): altura de vuelo.
+
+---> Realiza un elefante, un cocodrilo, un águila real y un murciélago.

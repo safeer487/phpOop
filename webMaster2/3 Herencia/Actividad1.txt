@@ -1,0 +1,18 @@
+Teniendo el objeto padre con:
+
+Variables:
+-Nombre
+-Apellido1
+-Edad
+-Grupo de sangre
+
+Métodos:
+-Ver nombre completo y edad
+-Cambiar edad
+-Cambiar nombre
+
+Realiza el objeto hijo que herede del padre.
+
+Crea varios hijos con sus correspondientes nombres.
+
+Todos comparten el grupo de sangre, el apellido y los métodos.

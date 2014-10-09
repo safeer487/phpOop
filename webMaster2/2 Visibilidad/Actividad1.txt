@@ -1,0 +1,19 @@
+---> Alberto Chicote te ha contratado para que gestiones su restaurante. Para ello vas a utilizar el objeto Restaurante. Pon en práctica todo lo aprendido con la visibilidad:
+
+Variables:
+
+- Dirección
+- Nombre.
+- Número socios.
+- Número empleados.
+- Número de clientes.
+- Abierto (boolean)
+
+Métodos:
+
+- Cambiar: socios, empleados, clientes y abierto.
+- Devolver todo (cuidado con Abierto)
+
+AVISO: Te encontrarás con variables que nunca cambiarán.
+
+---> Testea con un chimpancé que todo funciona correctamente. En caso de no tener uno a mano, realizalo por ti mismo.

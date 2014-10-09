@@ -1,0 +1,13 @@
+Realiza una clase con objetos mágicos para una banda de música. Declara un array donde guardarás los miembros de la banda. También necesitarás variables para el nombre y el número de discos.
+
+Crea una banda que te guste, y si no:
+
+AC-DC
+
+Angus Young
+Malcolm Young
+Brian Johnson
+Cliff Williams
+Phil Rudd
+
+26 discos

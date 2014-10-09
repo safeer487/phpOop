@@ -1,0 +1,8 @@
+--> Programa un pequeño objeto para convertir de dólares-euros y euros-dólares. Necesitarás un static para almacenar el valor de la moneda.
+
+Ejemplo:
+
+$miConv = new Convertidor();
+echo $miConv->convertirEuros(50);
+
+--> Convierte en statics los métodos

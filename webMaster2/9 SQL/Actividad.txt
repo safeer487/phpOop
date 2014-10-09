@@ -1,0 +1,1 @@
+-> Crea la tabla de películas: nombre, año. Con un formulario introduce nuevos elementos e imprime los resultados justo debajo.

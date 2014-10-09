@@ -1,0 +1,2 @@
+controlador.php?vista=FAQ
+controlador.php?vista=index
